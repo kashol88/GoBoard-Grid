@@ -1,9 +1,3 @@
-# Exclude Claude Code files
-.claude/
-*.claude
-CLAUDE.md
-claude_*
-
 # Python cache
 __pycache__/
 *.pyc
