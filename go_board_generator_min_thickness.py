@@ -1,6 +1,6 @@
 """
 Go Board Generator - Creates a 9x9 Go board PDF with minimum line thickness
-Created by [Your Name] - Free to use and modify
+Created by Kasper Holm - Free to use and modify
 """
 
 from reportlab.lib.pagesizes import A4

@@ -1,6 +1,6 @@
 """
 Go Board Generator - Creates a 19x19 Go board PDF with standard dimensions
-Created by [Your Name] - Free to use and modify
+Created by Kasper Holm - Free to use and modify
 """
 
 from reportlab.lib.pagesizes import letter
