@@ -1,0 +1,13 @@
+# Exclude Claude Code files
+.claude/
+*.claude
+CLAUDE.md
+claude_*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PDF outputs (optional - remove if you want to include sample PDFs)
+*.pdf
