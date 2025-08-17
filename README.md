@@ -10,6 +10,8 @@ Creates a **9x9 Go board** with Japanese standard dimensions (22.0mm x 23.7mm sp
 ### go_board_19x19_single.py  
 Generates a **19x19 Go board** with standard dimensions on letter-size paper. Perfect for full-size tournament play.
 
+**Printing note:** To print at correct dimensions, open the PDF in a PDF viewer and set printer settings to "Poster" mode. This will automatically split the board across multiple A4 pages with proper scaling.
+
 ### go_board_generator_min_thickness.py
 Creates a **9x9 Go board** with minimum line thickness for lighter printing or specific printer requirements.
 
